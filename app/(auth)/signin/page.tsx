@@ -1,3 +1,3 @@
 export default function Signin(){
-  return <div>signin</div>
+  return <div className="text-md font-semi-bold">Sign In</div>
 }
